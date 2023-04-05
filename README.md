@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mustafa Imran</h1>
 <h3 align="center">As a dedicated developer, I have a strong inclination to continuously enhance my skills and elevate my work. My unwavering passion motivates me to produce code that is not only proficient, but also aesthetically pleasing.</h3>
 
-- 🔭 I’m currently working on ** A Inventory and Shipping Application For New Businesses**
+- 🔭 I’m currently working on ** A Inventory Application which can be integrated with Multiple Shipping Service Providers **
 
 - 🌱 I’m currently learning **Cloud application services**
 
